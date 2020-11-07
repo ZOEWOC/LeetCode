@@ -1,0 +1,14 @@
+
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÉÜ¯ûÿÿÿÿ8œÓ«½Ù.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(ïÂÌõ8œÓ«½Ù.
+7
+java:S1220""Move this file to a named package.8œÓ«½Ù.
+N
+java:S1135	"2Complete the task associated to this TODO comment.(£°§\8œÓ«½Ù.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†Ğ·8œÓ«½Ù.
+U
+java:S11972"8Move the array designator from the variable to the type.(“Ç«ê8œÓ«½Ù.
+U
+java:S11973"8Move the array designator from the variable to the type.(àµá8œÓ«½Ù.
+]	java:S125'"<This block of commented-out lines of code should be removed.(¼…ª½üÿÿÿÿ8öŞÆ½Ù.
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùş08œÓ«½Ù.
